@@ -18,3 +18,16 @@ If you are developing a production application, we recommend using TypeScript wi
 =======
 # disainweb-technoversary
 >>>>>>> 3371412f16898049a8cbe30a542f3d6297ab4ce0
+>>>>>>>
+#demo dari website pelingku 
+https://youtu.be/ED84WlvPTSc
+
+#jangan lupa karna ini menggunakan npm download di terminal 
+npm install lucide-react
+npm install firebase
+
+dan routenya menggunakan 
+npm install react-router-dom
+
+dan untuk menjalankan 
+npm run dev
